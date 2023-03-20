@@ -1,7 +1,12 @@
 ---
 ---
+<center>
 
-## About Me 👋
+✉️ <a>ypotdar@ucsd.edu</a> • 💼 <a href="https://www.linkedin.com/in/yashmpotdar/" target="_blank">Connect</a>
+
+</center>
+
+## About Me ✌🏽
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 

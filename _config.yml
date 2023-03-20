@@ -8,8 +8,8 @@
 url: https://yashpotdar.github.io
 
 # for header and meta tags
-title: Yash Potdar (‼️ Under Construction)
-description: personal website for Yash Potdar
+title: Yash Potdar (⚠️ 🫣 🔜 Under Construction)
+description: recent UC San Diego alumni, Data Scientist, Software Engineer
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
@@ -25,9 +25,9 @@ description: personal website for Yash Potdar
 #     external: true
 
 # for the homepage image + big text next to it
-greeting_image: /assets/me.jpg
+greeting_image: /assets/me-nyc.jpg
 # 100-200 characters recommended
-greeting_text: TESTING I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
+greeting_text: Welcome to my personal website!
 
 # show blog post excerpts on blog page
 show_excerpts: false
