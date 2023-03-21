@@ -27,7 +27,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/me-nyc.jpg
 # 100-200 characters recommended
-greeting_text: Welcome to my personal website!
+# greeting_text: Welcome to my personal website!
 
 # show blog post excerpts on blog page
 show_excerpts: false
