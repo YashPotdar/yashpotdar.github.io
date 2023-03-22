@@ -4,8 +4,6 @@
 <a href="mailto: ypotdar@ucsd.edu" ><img src="assets/Email_Logo.png" alt="Email Logo" width="25" /></a> &nbsp; 
 <a href="https://www.linkedin.com/in/yashmpotdar/" target = "_blank"><img src="assets/LinkedIn_Logo.png" alt="LinkedIn Logo" width="25" /></a> &nbsp; 
 <a href="https://github.com/YashPotdar" target = "_blank"><img src="assets/Github_Logo.png" alt="Github Logo" width="25" /></a>
-
-
 </center>
 
 ## About Me ✌🏽
@@ -87,10 +85,13 @@ Feel free to contact me or connect on LinkedIn!
 
 **Highlighted projects:**
 - **Deep Learning for Pulmonary Edema Classification using Image Segmentation** 🫁 🫀 <a href="https://yashpotdar.github.io/deep-learning-pulmonary-edema/" target = "_blank">(see more)</a>
-    - place
+    - Trained multiple convolutional neural network (CNN) architectures in order to diagnose pulmonary edema from chest X-rays.
+    - Utilized transfer learning with a lung and heart image segmentation network in order to understand the impact of segmentation.
+    - Worked closely with a radiologist from UC San Diego Health for two quarters during this Data Science Senior Capstone project.
 - **Facebook Redesign** 🧓🏽 #️⃣ <a href="https://yashpotdar.github.io/facebook-redesign/" target = "_blank">(see more)</a>
-    - UX case study for a redesign for Facebook 
-    - 
+    - Conducted a UX case study for a Facebook redesign aimed to increase accessibility for the 65+ community and reduce sentiments of isolation and depression among this demographic.
+    - Interviewed members of the 65+ community in order to understand their core needs, pain points, and values.
+    - Designed high-fidelity and wireframe prototypes of the app redesign.
 - **NYPD Police Complaint Classification Model** 🚔 <a href="https://github.com/YashPotdar/NYPD_Civilian_Complaints" target = "_blank">(see more)</a>
     - Developed a DecisionTreeClassifier to predict whether civilian cases against officers were substantiated.
     - Utilized scikit-learn transformers and pipelines to engineer features and develop the algorithm. 
