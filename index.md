@@ -56,7 +56,7 @@ Feel free to contact me or connect on LinkedIn!
 - Implemented strategies to foster a culture of inclusivity and increasing retention within the organization.
 
 **Project Manager** <br>
-**October 2020 2022 - June 2022**
+**October 2020 - June 2022**
 - Led the first iteration of a data analytics project for predicting churn using Machine Learning and analyzing ROI for a healthcare firm, which became a recurring client for TCG.
 - Led a team of 5 Associates and worked directly with the CFO in order to successfully deliver a key project within scope, timeline, and budget.  
 - Conducted primary and secondary research and created a long-term marketing plan for UCSD’s Price Center.
