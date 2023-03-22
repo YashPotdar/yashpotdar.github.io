@@ -23,3 +23,7 @@ Highlighted university org experiences
 ## Projects 🧑🏽‍🍳
 
 Highlighted projects
+* Deep Learning for Pulmonary Edema Classification using Image Segmentation
+    * [Page](https://yashpotdar.github.io/deep-learning-pulmonary-edema/)
+* Facebook Redesign
+    * [Page](https://yashpotdar.github.io/facebook-redesign/)
