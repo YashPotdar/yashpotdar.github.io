@@ -98,11 +98,12 @@ li:first-child {
 
 a {
   color: $accent-color;
+  text-decoration: none;
 }
 
 a:hover,
 a:active {
-  color: lighten($accent-color, 10%);
+  color: lighten($accent-color, 15%);
   text-decoration: underline;
 }
 
