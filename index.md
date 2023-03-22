@@ -14,7 +14,7 @@ I'm originally from San Ramon, CA (SF Bay Area 🌉). In my free time, I enjoy t
 
 Feel free to contact me or connect on LinkedIn!
 
-## Professional Experience 🧑🏽‍💻
+## Work Experience 🧑🏽‍💻
 
 ### <a href="https://rivian.com/" target = "_blank">Rivian ⚡ 🚙</a>
 **Software Engineer Intern, Core Services** <br>
