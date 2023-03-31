@@ -26,7 +26,7 @@ I'm always looking to learn something new and connect with others! Feel free to 
 ### <a href="https://datascience.ucsd.edu/" target = "_blank">Halıcıoğlu Data Science Institute 📊 🧑🏽‍🏫</a>
 **Teaching Assistant (TA)** <br>
 **September 2020 – March 2023**
-- Leading weekly discussion sections for a class of 120 in order to solidify course concepts for students.
+- Led 9 weekly discussion sections for a class of 120, where I walked through challenging questions from the weekly programming assignment in order to solidify course concepts.
 - Held weekly office hours to clarify Python and statistics concepts from lectures and guide students through programming assignments.
 - Designed and created programming assignments and a final project to assess students' understanding of course concepts.
 
@@ -64,8 +64,8 @@ I'm always looking to learn something new and connect with others! Feel free to 
 ### <a href="https://ds3.ucsd.edu/" target = "_blank">Data Science Student Society (DS3) 📊</a>
 **Professional Development Workshops Lead** <br>
 **June 2021 - September 2022**
-- Lead the development of **2 workshops** dedicated to career development for undergraduate members of the Data Science Student Society.
-- Delivering workshops to prepare students for internship recruitment, such as resume reviews, networking sessions, or Leetcode workshops.
+- Led the development of **2 workshops** dedicated to career development for undergraduate members of the Data Science Student Society.
+- Delivered workshops to prepare students for internship recruitment, such as resume reviews, networking sessions, or Leetcode workshops.
 
 **Kaggle Workshop Committee Member** <br>
 **June 2021 - September 2022**
