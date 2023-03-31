@@ -8,11 +8,11 @@
 
 ## About Me ✌🏽
 
-Welcome to my website! I'm Yash, a fourth-year **undergraduate student at** <a href="https://www.ucsd.edu/" target = "_blank">**UC San Diego**</a>. I will be graduating with a double major in **Data Science** and **Cognitive Science: Machine Learning** in March 2023.
+Welcome to my website! I'm Yash, a recent graduate from <a href="https://www.ucsd.edu/" target = "_blank">**UC San Diego**</a>. This March, I graduated with highest honors (summa cum laude) while pursuing a double major in **Data Science** and **Cognitive Science: Machine Learning**.
 
 I'm originally from San Ramon, CA (SF Bay Area 🌉). In my free time, I enjoy traveling, exploring new restaurants, cooking, and following/playing sports (go Niners and Warriors)!
 
-Feel free to contact me or connect on LinkedIn!
+I'm always looking to learn something new and connect with others! Feel free to contact me or connect on LinkedIn!
 
 ## Work Experience 🧑🏽‍💻
 
@@ -92,6 +92,9 @@ Feel free to contact me or connect on LinkedIn!
     - Conducted a UX case study for a Facebook redesign aimed to increase accessibility for the 65+ community and reduce sentiments of isolation and depression among this demographic.
     - Interviewed members of the 65+ community in order to understand their core needs, pain points, and values.
     - Designed high-fidelity and wireframe prototypes of the app redesign.
+- **Generating Sherlock Holmes Passages with Recurrent Neural Networks** 🕵️‍♂️ 🗒️ <a href="assets/Generating_Passages_RNN.pdf" target = "_blank">(see more)</a>
+    - Explored the potential of recurrent neural networks (RNNs) to generate literature using a sample corpus.
+    - Tested and evaluated several RNN architectures with tuned hyperparameters.
 - **NYPD Police Complaint Classification Model** 🚔 <a href="https://github.com/YashPotdar/NYPD_Civilian_Complaints" target = "_blank">(see more)</a>
     - Developed a DecisionTreeClassifier to predict whether civilian cases against officers were substantiated.
     - Utilized scikit-learn transformers and pipelines to engineer features and develop the algorithm. 
