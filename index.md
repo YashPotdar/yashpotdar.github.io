@@ -25,7 +25,7 @@ I'm always looking to learn something new and connect with others! Feel free to 
 
 ### <a href="https://datascience.ucsd.edu/" target = "_blank">Halıcıoğlu Data Science Institute 📊 🧑🏽‍🏫</a>
 **Teaching Assistant (TA)** <br>
-**September 2020 – present**
+**September 2020 – March 2023**
 - Leading weekly discussion sections for a class of 120 in order to solidify course concepts for students.
 - Held weekly office hours to clarify Python and statistics concepts from lectures and guide students through programming assignments.
 - Designed and created programming assignments and a final project to assess students' understanding of course concepts.
