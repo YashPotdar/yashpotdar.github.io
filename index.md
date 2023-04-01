@@ -26,9 +26,10 @@ I'm always looking to learn something new and connect with others! Feel free to 
 ### <a href="https://datascience.ucsd.edu/" target = "_blank">Halıcıoğlu Data Science Institute 📊 🧑🏽‍🏫</a>
 **Teaching Assistant (TA)** <br>
 **September 2020 – March 2023**
-- Led 9 weekly discussion sections for a class of 120, where I walked through challenging questions from the weekly programming assignment in order to solidify course concepts.
+- Led 9 weekly discussion sections for a class of 120 undergraduate students, where I walked through challenging questions from the weekly programming assignment in order to solidify course concepts.
 - Held weekly office hours to clarify Python and statistics concepts from lectures and guide students through programming assignments.
 - Designed and created programming assignments and a final project to assess students' understanding of course concepts.
+- Served as an Instructional Assistant for <a href="https://dsc10.com/" target = "_blank">DSC 10</a> **5 times** and for <a href="https://dsc80.com/" target = "_blank">DSC 80</a> **2 times**.
 
 ### <a href="https://wefunder.com/hugs" target = "_blank">HUGS (Startup) 🏡</a>
 **Developer** <br>
