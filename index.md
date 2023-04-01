@@ -19,12 +19,12 @@ I'm always looking to learn something new and connect with others! Feel free to 
 ### <a href="https://rivian.com/" target = "_blank">Rivian ⚡ 🚙</a>
 **Software Engineer Intern, Core Services** <br>
 **June 2022 – September 2022**
-- Architected and deployed a production-level service facilitating settlement of vehicle transactions at scale.
+- Architected and deployed a production-level service facilitating the settlement of vehicle transactions at scale.
 - Improved the customer experience by streamlining internal communication pertaining to vehicle deliveries.
 - Wrote documentation and wrote a tutorial to hand off my project to future developers, explain my design decisions, and identify areas of extension for other teams.
 
 ### <a href="https://datascience.ucsd.edu/" target = "_blank">Halıcıoğlu Data Science Institute 📊 🧑🏽‍🏫</a>
-**Teaching Assistant (TA)** <br>
+**Data Science Instructional Assistant (IA)** <br>
 **September 2020 – March 2023**
 - Led 9 weekly discussion sections for a class of 120 undergraduate students, where I walked through challenging questions from the weekly programming assignment in order to solidify course concepts.
 - Held weekly office hours to clarify Python and statistics concepts from lectures and guide students through programming assignments.
@@ -54,7 +54,7 @@ I'm always looking to learn something new and connect with others! Feel free to 
 **VP Human Capital Management (HCM)** <br>
 **June 2022 - March 2023**
 - Planned social events, recruitment events, club retreats, study group sessions, and more to build a sense of community within TCG. 
-- Implemented strategies to foster a culture of inclusivity and increasing retention within the organization.
+- Implemented strategies to foster a culture of inclusivity and increase retention within the organization.
 
 **Project Manager** <br>
 **October 2020 - June 2022**
