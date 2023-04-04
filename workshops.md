@@ -1,7 +1,7 @@
 ---
 ---
 
-## Data Science Workshop Recordings
+## Data Science Workshops
 Below are selected data science workshops that I presented with teammates on industry-relevant concepts. We designed the curriculum, conducted research, and created engaging workshops that allow users to learn and apply concepts.
 
 Our goal was to increase access to data science education and help anyone interested in the field gain a working understanding of industry-relevant topics. We made these workshops for Data Science Student Society (DS3) members at UC San Diego, but these are openly available for anyone to follow along and learn!
