@@ -63,18 +63,21 @@ I'm always looking to learn something new and connect with others! Feel free to 
 - Conducted primary and secondary research and created a long-term marketing plan for UCSD’s Price Center.
 
 ### <a href="https://ds3.ucsd.edu/" target = "_blank">Data Science Student Society (DS3) 📊</a>
+[***Data Science Workshops***](workshops)
+<!-- <a href="https://ds3.ucsd.edu/" target = "_blank">Data Science Student Society (DS3) 📊</a> -->
+
 **Professional Development Workshops Lead** <br>
 **June 2021 - September 2022**
 - Led the development of **2 workshops** dedicated to career development for undergraduate members of the Data Science Student Society.
 - Delivered workshops to prepare students for internship recruitment, such as resume reviews, networking sessions, or Leetcode workshops.
 
 **Kaggle Workshop Committee Member** <br>
-**June 2021 - September 2022**
+**June 2020 - June 2021**
 - Delivered **6 workshops** on industry-relevant data science topics such as Pandas, Scikit-learn (sklearn) modeling, pipelines, and anomaly detection.
 - Created content with the other Workshop Committee members in order to engage students interested in data science and enhance their learning.
 
 ### <a href="https://acmucsd.com/communities#Cyber" target = "_blank">ACM Cyber 🥷🏼 💻</a>
-**Director of Logistics & Finance** <br>
+**Director of Finance & Logistics** <br>
 **July 2020 - June 2021**
 - Coordinated club events, which include workshops, networking events, seminars, and socials.
 - Interfaced with other ACM Cyber Board members to seamlessly hold virtual events, due to the COVID-19 pandemic.
@@ -84,20 +87,24 @@ I'm always looking to learn something new and connect with others! Feel free to 
 
 ## Projects 🧑🏽‍🍳
 
-**Highlighted projects:**
-- **Deep Learning for Pulmonary Edema Classification using Image Segmentation** 🫁 🫀 <a href="https://yashpotdar.github.io/deep-learning-pulmonary-edema/" target = "_blank">(see more)</a>
+- **Deep Learning for Pulmonary Edema Classification using Image Segmentation** 🫁 🫀 
     - Trained multiple convolutional neural network (CNN) architectures in order to diagnose pulmonary edema from chest X-rays.
     - Utilized transfer learning with a lung and heart image segmentation network in order to understand the impact of segmentation.
     - Worked closely with a radiologist from UC San Diego Health for two quarters during this Data Science Senior Capstone project.
-- **Facebook Redesign** 🧓🏽 #️⃣ <a href="https://yashpotdar.github.io/facebook-redesign/" target = "_blank">(see more)</a>
+    - <a href="assets/DeepLearningEdemaPoster.png" target = "_blank">***Poster***</a>, <a href="https://yashpotdar.github.io/deep-learning-pulmonary-edema/" target = "_blank">***Website***</a>, <a href="assets/Deep_Learning_Edema.pdf" target = "_blank">***Paper***</a>
+- **Facebook Redesign** 🧓🏽 #️⃣ 
     - Conducted a UX case study for a Facebook redesign aimed to increase accessibility for the 65+ community and reduce sentiments of isolation and depression among this demographic.
     - Interviewed members of the 65+ community in order to understand their core needs, pain points, and values.
     - Designed high-fidelity and wireframe prototypes of the app redesign.
-- **Generating Sherlock Holmes Passages with Recurrent Neural Networks** 🕵️‍♂️ 🗒️ <a href="assets/Generating_Passages_RNN.pdf" target = "_blank">(see more)</a>
+    - <a href="https://yashpotdar.github.io/facebook-redesign/" target = "_blank">***Website***</a>
+- **Generating Sherlock Holmes Passages with Recurrent Neural Networks** 🕵️‍♂️ 🗒️ 
     - Explored the potential of recurrent neural networks (RNNs) to generate literature using a sample corpus.
     - Tested and evaluated several RNN architectures with tuned hyperparameters.
-- **NYPD Police Complaint Classification Model** 🚔 <a href="https://github.com/YashPotdar/NYPD_Civilian_Complaints" target = "_blank">(see more)</a>
+    - <a href="assets/Generating_Passages_RNN.pdf" target = "_blank">***Paper***</a>
+- **NYPD Police Complaint Classification Model** 🚔
     - Developed a DecisionTreeClassifier to predict whether civilian cases against officers were substantiated.
-    - Utilized scikit-learn transformers and pipelines to engineer features and develop the algorithm. 
-- **MLB Pitch Classification** ⚾ <a href="https://www.kaggle.com/yashpotdar/mlb-pitch-classification-by-knn-and-decision-trees" target = "_blank">(see more)</a>
+    - Utilized scikit-learn transformers and pipelines to engineer features and develop the algorithm.
+    - <a href="https://github.com/YashPotdar/NYPD_Civilian_Complaints" target = "_blank">***Notebooks***</a>
+- **MLB Pitch Classification** ⚾ 
     - Utilized supervised ML algorithms (Decision Trees and K-Nearest Neighbors) to solve the multi-label classification problem of classifying pitches as Changeups, Curveballs, Fastballs, or Sliders.
+    - <a href="https://www.kaggle.com/yashpotdar/mlb-pitch-classification-by-knn-and-decision-trees" target = "_blank">***Website***</a>
