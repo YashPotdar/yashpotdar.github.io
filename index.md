@@ -109,3 +109,6 @@ I'm always looking to learn something new and connect with others! Feel free to 
 - **MLB Pitch Classification** ⚾ 
     - Utilized supervised ML algorithms (Decision Trees and K-Nearest Neighbors) to solve the multi-label classification problem of classifying pitches as Changeups, Curveballs, Fastballs, or Sliders.
     - <a href="https://www.kaggle.com/yashpotdar/mlb-pitch-classification-by-knn-and-decision-trees" target = "_blank">***Website***</a>
+
+<br>
+<center><img src='assets/teaching-dsc80-disc.png' width="100%"><br><i>Teaching discussion!</i> 🧑🏽‍🏫</center>
