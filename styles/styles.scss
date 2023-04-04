@@ -118,6 +118,11 @@ img {
   height: 8rem;
   border-radius: 5rem;
   margin-right: 1.5rem;
+  transition: all 0.2s ease-in-out; /* smooth transition for hover on avatar */
+}
+
+.avatar:hover {
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.85); /* drop shadow effect on avatar button */
 }
 
 // homepage greeting component
