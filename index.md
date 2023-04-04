@@ -100,11 +100,12 @@ I'm always looking to learn something new and connect with others! Feel free to 
 - **Generating Sherlock Holmes Passages with Recurrent Neural Networks** 🕵️‍♂️ 🗒️ 
     - Explored the potential of recurrent neural networks (RNNs) to generate literature using a sample corpus.
     - Tested and evaluated several RNN architectures with tuned hyperparameters.
-    - <a href="assets/Generating_Passages_RNN.pdf" target = "_blank">***Paper***</a>
+    - <a href="assets/Generating_Passages_RNN.pdf" target = "_blank">***Paper***</a>, <a href="https://github.com/YashPotdar/Generating-Sherlock-Passages-RNN/blob/main/Char_Rnn.ipynb" target = "_blank">***Notebook***</a>
 - **NYPD Police Complaint Classification Model** 🚔
-    - Developed a DecisionTreeClassifier to predict whether civilian cases against officers were substantiated.
+    - Developed a DecisionTreeClassifier to predict whether civilian cases against officers in the New York Police Department were substantiated.
+    - Evaluated the parity of the classifier using the True Positive Parity measure to assess whether the model had systematic biases.
     - Utilized scikit-learn transformers and pipelines to engineer features and develop the algorithm.
-    - <a href="https://github.com/YashPotdar/NYPD_Civilian_Complaints" target = "_blank">***Notebooks***</a>
+    - Notebooks: <a href="https://github.com/YashPotdar/NYPD_Civilian_Complaints/blob/main/nypd_permutation_test.ipynb" target = "_blank">***Permutation Test***</a>, <a href="https://github.com/YashPotdar/NYPD_Civilian_Complaints/blob/main/nypd_classification_model.ipynb" target = "_blank">***Classification ML Model***</a>
 - **MLB Pitch Classification** ⚾ 
     - Utilized supervised ML algorithms (Decision Trees and K-Nearest Neighbors) to solve the multi-label classification problem of classifying pitches as Changeups, Curveballs, Fastballs, or Sliders.
     - <a href="https://www.kaggle.com/yashpotdar/mlb-pitch-classification-by-knn-and-decision-trees" target = "_blank">***Website***</a>
