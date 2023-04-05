@@ -1,8 +1,8 @@
 ---
 ---
 <center>
-<a href="mailto: ypotdar@ucsd.edu" ><img src="assets/Email_Logo.png" alt="Email Logo" width="21" /></a> &nbsp; 
-<a href="https://www.linkedin.com/in/yashmpotdar/" target = "_blank"><img src="assets/LinkedIn_Logo.png" alt="LinkedIn Logo" width="21" /></a> &nbsp; 
+<a href="mailto: ypotdar@ucsd.edu" ><img src="assets/Email_Logo.png" alt="Email Logo" width="21" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/yashmpotdar/" target = "_blank"><img src="assets/LinkedIn_Logo.png" alt="LinkedIn Logo" width="21" /></a> &nbsp;
 <a href="https://github.com/YashPotdar" target = "_blank"><img src="assets/Github_Logo.png" alt="Github Logo" width="21" /></a>
 </center>
 

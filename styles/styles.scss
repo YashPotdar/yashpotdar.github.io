@@ -117,7 +117,7 @@ img {
   width: 8rem;
   height: 8rem;
   border-radius: 5rem;
-  margin-right: 1.5rem;
+  // margin-right: 1.5rem; /* only necessary if not centering avatar eg. use for left align */
   transition: all 0.2s ease-in-out; /* smooth transition for hover on avatar */
 }
 
