@@ -12,6 +12,8 @@ Welcome to my website! I'm Yash, a recent graduate from <a href="https://www.ucs
 
 I'm originally from San Ramon, CA (SF Bay Area 🌉). In my free time, I enjoy traveling, exploring new restaurants, cooking, and following/playing sports (go Niners and Warriors)!
 
+One of my passions is teaching and mentorship. I served as an Instructional Assistant for several undergraduate data science courses and led workshops for students interested in data science. Check out my [**workshops**](workshops)!
+
 I'm always looking to learn something new and connect with others! Feel free to contact me or connect on LinkedIn!
 
 ## Work Experience 🧑🏽‍💻
