@@ -1,39 +1,60 @@
 ---
 ---
 <center>
-<a href="mailto: ypotdar@ucsd.edu" ><img src="assets/Email_Logo.png" alt="Email Logo" width="21" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/yashmpotdar/" target = "_blank"><img src="assets/LinkedIn_Logo.png" alt="LinkedIn Logo" width="21" /></a> &nbsp;
 <a href="https://github.com/YashPotdar" target = "_blank"><img src="assets/Github_Logo.png" alt="Github Logo" width="21" /></a>
 </center>
 
 ## About Me ✌🏽
 
-Welcome to my website! I'm Yash, a recent graduate from <a href="https://www.ucsd.edu/" target = "_blank">**UC San Diego**</a>. This March, I graduated with highest honors (summa cum laude) while pursuing a double major in **Data Science** and **Cognitive Science: Machine Learning**.
+Welcome to my website! I'm Yash, a Software Engineer in the San Francisco Bay Area. I'm currently a **Software Engineer** at Rivian and am concurrently pursuing a Masters in **Computer Science with a Specialization in Interactive Intelligence** at <a href="https://www.cc.gatech.edu/" target = "_blank">Georgia Institute of Technology</a>.
 
-I'm originally from San Ramon, CA (SF Bay Area 🌉). In my free time, I enjoy traveling, exploring new restaurants, cooking, and following/playing sports (go Niners and Warriors)!
+Previously, I studied at <a href="https://datascience.ucsd.edu/" target = "_blank">UC San Diego</a>, where I graduated with highest honors (summa cum laude) while pursuing a double major in **Data Science** and **Cognitive Science: Machine Learning**.
 
-One of my passions is teaching and mentorship. I served as an Instructional Assistant for several undergraduate data science courses and led workshops for students interested in data science. Check out my [**workshops**](workshops)!
+I'm originally from the SF Bay Area 🌉. I enjoy traveling, experiencing new cultures through food, and playing/following sports (go Niners and Warriors)!
 
-I'm always looking to learn something new and connect with others! Feel free to contact me or connect on LinkedIn!
+One of my passions is teaching and mentorship. During my time at UCSD, I served as an Instructional Assistant for several undergraduate data science courses and led workshops for students interested in data science. Check out my [**workshops**](workshops)!
+
+I'm a highly motivated individual interested in the fields of data science and AI, looking to make a positive impact by solving challenging problems. I'm always looking to learn something new and connect with others! Feel free to connect on LinkedIn!
 
 ## Work Experience 🧑🏽‍💻
 
-### <a href="https://rivian.com/" target = "_blank">Rivian ⚡ 🚙</a>
+<span style="font-size: 1.3em; font-weight: bold;">
+  <a href="https://rivian.com/" target = "_blank">Rivian ⚡ 🚙</a>
+</span> <br>
+Palo Alto, CA
+
+**Software Engineer II, Vehicle Merchandising** <br>
+**June 2023 – present**
+- Designed and implemented an automation pipeline allowing the Merchandising organization to make sales changes efficiently and at-scale, allowing for a more seamless customer purchase and configuration experience. 
+- Collaborate cross-functionally with product managers to define key milestones, identify service gaps, and coordinate with downstream teams and engineers for effective resolution.
+
+
 **Software Engineer Intern, Core Services** <br>
+**Palo Alto, CA** <br>
 **June 2022 – September 2022**
 - Architected and deployed a production-level service facilitating the settlement of vehicle transactions at scale.
 - Improved the customer experience by streamlining internal communication pertaining to vehicle deliveries.
 - Wrote documentation and wrote a tutorial to hand off my project to future developers, explain my design decisions, and identify areas of extension for other teams.
 
-### <a href="https://datascience.ucsd.edu/" target = "_blank">Halıcıoğlu Data Science Institute 📊 🧑🏽‍🏫</a>
+<span style="font-size: 1.3em; font-weight: bold;">
+  <a href="https://datascience.ucsd.edu/" target = "_blank">Halıcıoğlu Data Science Institute 📊 🧑🏽‍🏫</a> 
+</span> <br>
+La Jolla, San Diego, CA
+
 **Data Science Instructional Assistant (IA)** <br>
+**La Jolla, San Diego, CA** <br>
 **September 2020 – March 2023**
 - Led 9 weekly discussion sections for a class of 120 undergraduate students, where I walked through challenging questions from the weekly programming assignment in order to solidify course concepts.
 - Held weekly office hours to clarify Python and statistics concepts from lectures and guide students through programming assignments.
 - Designed and created programming assignments and a final project to assess students' understanding of course concepts.
 - Served as an Instructional Assistant for <a href="https://dsc10.com/" target = "_blank">DSC 10</a> **5 times** and for <a href="https://dsc80.com/" target = "_blank">DSC 80</a> **2 times**.
 
-### <a href="https://wefunder.com/hugs" target = "_blank">HUGS (Startup) 🏡</a>
+<span style="font-size: 1.3em; font-weight: bold;">
+  <a href="https://wefunder.com/hugs" target="_blank">HUGS (Startup) 🏡</a>
+</span> <br>
+San Diego, CA
+
 **Developer** <br>
 **May 2021 - June 2022** <br>
 ||<br>
@@ -42,7 +63,11 @@ I'm always looking to learn something new and connect with others! Feel free to 
 - Created wireframe prototypes and design language documents for the product, which is a housing portal that aims to bridge the gap between international students and landlords.
 - Served as one of the initial Engineers and designed features for the housing platform.
 
-### <a href="https://www.logicmonitor.com/" target = "_blank">LogicMonitor ☁️ 🤖</a>
+<span style="font-size: 1.3em; font-weight: bold;">
+  <a href="https://www.logicmonitor.com/" target = "_blank">LogicMonitor ☁️ 🤖</a>
+</span> <br>
+Santa Barbara, CA
+
 **Data Science Intern, R&D** <br>
 **June 2021 - August 2021**
 - Researched and developed an early-stage feature on LogicMonitor's platform for root cause analysis of alerts. 
