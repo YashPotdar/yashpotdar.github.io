@@ -31,7 +31,6 @@ Palo Alto, CA
 
 
 **Software Engineer Intern, Core Services** <br>
-**Palo Alto, CA** <br>
 **June 2022 – September 2022**
 - Architected and deployed a production-level service facilitating the settlement of vehicle transactions at scale.
 - Improved the customer experience by streamlining internal communication pertaining to vehicle deliveries.
@@ -43,7 +42,6 @@ Palo Alto, CA
 La Jolla, San Diego, CA
 
 **Data Science Instructional Assistant (IA)** <br>
-**La Jolla, San Diego, CA** <br>
 **September 2020 – March 2023**
 - Led 9 weekly discussion sections for a class of 120 undergraduate students, where I walked through challenging questions from the weekly programming assignment in order to solidify course concepts.
 - Held weekly office hours to clarify Python and statistics concepts from lectures and guide students through programming assignments.
