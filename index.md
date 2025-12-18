@@ -1,21 +1,18 @@
 ---
 ---
 <center>
-<a href="https://www.linkedin.com/in/yashmpotdar/" target = "_blank"><img src="assets/LinkedIn_Logo.png" alt="LinkedIn Logo" width="21" /></a> &nbsp;
 <a href="https://github.com/YashPotdar" target = "_blank"><img src="assets/Github_Logo.png" alt="Github Logo" width="21" /></a>
 </center>
 
 ## About Me ✌🏽
 
-Welcome to my website! I'm Yash, a Software Engineer in the San Francisco Bay Area. I'm currently a **Software Engineer** at Rivian and am concurrently pursuing a Masters in **Computer Science with a Specialization in Interactive Intelligence** at <a href="https://www.cc.gatech.edu/" target = "_blank">Georgia Institute of Technology</a>.
+Welcome to my website! I'm Yash, a Software Engineer based in the San Francisco Bay Area. I am currently balancing my professional work with a **Masters in Computer Science (Specialization in Artificial Intelligence)** at <a href="https://www.cc.gatech.edu/" target = "_blank">Georgia Institute of Technology</a>.
 
-Previously, I studied at <a href="https://datascience.ucsd.edu/" target = "_blank">UC San Diego</a>, where I graduated with highest honors (summa cum laude) while pursuing a double major in **Data Science** and **Cognitive Science: Machine Learning**.
+Previously, I graduated *summa cum laude* from <a href="https://datascience.ucsd.edu/" target = "_blank">UC San Diego</a> with a double major in **Data Science** and **Cognitive Science: Machine Learning**. My academic journey sparked a deep passion for teaching and working with students. I spent much of my time at UCSD as an Instructional Assistant for several undergraduate data science courses and workshop lead in the Data Science Student Society. Check out my [**workshops**](workshops)!
 
-I'm originally from the SF Bay Area 🌉. I enjoy traveling, experiencing new cultures through food, and playing/following sports (go Niners and Warriors)!
+I'm a Bay Area native 🌉 who loves traveling, experiencing new cultures through food, and playing/following sports (go Niners and Warriors)!
 
-One of my passions is teaching and mentorship. During my time at UCSD, I served as an Instructional Assistant for several undergraduate data science courses and led workshops for students interested in data science. Check out my [**workshops**](workshops)!
-
-I'm a highly motivated individual interested in the fields of data science and AI, looking to make a positive impact by solving challenging problems. I'm always looking to learn something new and connect with others! Feel free to connect on LinkedIn!
+The opportunity to use Data Science and AI to solve complex problems and make a positive impact drives me. I'm always looking to learn something new and connect with others! 
 
 ## Work Experience 🧑🏽‍💻
 
