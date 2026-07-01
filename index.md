@@ -1,136 +1,246 @@
 ---
+layout: null
 ---
-<center>
-<a href="https://github.com/YashPotdar" target = "_blank"><img src="assets/Github_Logo.png" alt="Github Logo" width="21" /></a>
-</center>
 
-## About Me ✌🏽
+<style>
+  :root {
+    color-scheme: dark;
+  }
 
-Welcome to my website! I'm Yash, a Software Engineer based in the San Francisco Bay Area. I am currently balancing my professional work with a **Masters in Computer Science (Specialization in Artificial Intelligence)** at <a href="https://www.cc.gatech.edu/" target = "_blank">Georgia Institute of Technology</a>.
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #07111f 0%, #0f172a 100%);
+    color: #e2e8f0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
 
-Previously, I graduated *summa cum laude* from <a href="https://datascience.ucsd.edu/" target = "_blank">UC San Diego</a> with a double major in **Data Science** and **Cognitive Science: Machine Learning**. My academic journey sparked a deep passion for teaching and working with students. I spent much of my time at UCSD as an Instructional Assistant for several undergraduate data science courses and workshop lead in the Data Science Student Society. Check out my [**workshops**](workshops)!
+  * { box-sizing: border-box; }
 
-I'm a Bay Area native 🌉 who loves traveling, experiencing new cultures through food, and playing/following sports (go Niners and Warriors)!
+  a {
+    color: #8ec5ff;
+    text-decoration: none;
+  }
 
-The opportunity to use Data Science and AI to solve complex problems and make a positive impact drives me. I'm always looking to learn something new and connect with others! 
+  a:hover {
+    text-decoration: underline;
+  }
 
-## Work Experience 🧑🏽‍💻
+  .container {
+    max-width: 1040px;
+    margin: 0 auto;
+    padding: 72px 24px 88px;
+  }
 
-<span style="font-size: 1.3em; font-weight: bold;">
-  <a href="https://rivian.com/" target = "_blank">Rivian ⚡ 🚙</a>
-</span> <br>
-Palo Alto, CA
+  .top-links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 14px;
+    margin-bottom: 18px;
+    font-size: 0.95rem;
+  }
 
-**Software Engineer II, Vehicle Merchandising** <br>
-**June 2023 – present**
-- Designed and implemented an automation pipeline allowing the Merchandising organization to make sales changes efficiently and at-scale, allowing for a more seamless customer purchase and configuration experience. 
-- Collaborate cross-functionally with product managers to define key milestones, identify service gaps, and coordinate with downstream teams and engineers for effective resolution.
+  .hero {
+    padding: 24px 0 24px;
+  }
 
+  .eyebrow {
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #7dd3fc;
+    margin-bottom: 14px;
+  }
 
-**Software Engineer Intern, Core Services** <br>
-**June 2022 – September 2022**
-- Architected and deployed a production-level service facilitating the settlement of vehicle transactions at scale.
-- Improved the customer experience by streamlining internal communication pertaining to vehicle deliveries.
-- Wrote documentation and wrote a tutorial to hand off my project to future developers, explain my design decisions, and identify areas of extension for other teams.
+  .title {
+    font-size: clamp(2.3rem, 5vw, 3.6rem);
+    font-weight: 800;
+    line-height: 1.05;
+    margin: 0 0 12px;
+    letter-spacing: -0.03em;
+  }
 
-<span style="font-size: 1.3em; font-weight: bold;">
-  <a href="https://datascience.ucsd.edu/" target = "_blank">Halıcıoğlu Data Science Institute 📊 🧑🏽‍🏫</a> 
-</span> <br>
-La Jolla, San Diego, CA
+  .lead {
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: #cbd5e1;
+    max-width: 720px;
+    margin: 0 0 22px;
+  }
 
-**Data Science Instructional Assistant (IA)** <br>
-**September 2020 – March 2023**
-- Led 9 weekly discussion sections for a class of 120 undergraduate students, where I walked through challenging questions from the weekly programming assignment in order to solidify course concepts.
-- Held weekly office hours to clarify Python and statistics concepts from lectures and guide students through programming assignments.
-- Designed and created programming assignments and a final project to assess students' understanding of course concepts.
-- Served as an Instructional Assistant for <a href="https://dsc10.com/" target = "_blank">DSC 10</a> **5 times** and for <a href="https://dsc80.com/" target = "_blank">DSC 80</a> **2 times**.
+  .cta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
 
-<span style="font-size: 1.3em; font-weight: bold;">
-  <a href="https://wefunder.com/hugs" target="_blank">HUGS (Startup) 🏡</a>
-</span> <br>
-San Diego, CA
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 16px;
+    border-radius: 999px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+  }
 
-**Developer** <br>
-**May 2021 - June 2022** <br>
-||<br>
-**Software Engineering Intern, R&D** <br>
-**March 2021 - May 2021**
-- Created wireframe prototypes and design language documents for the product, which is a housing portal that aims to bridge the gap between international students and landlords.
-- Served as one of the initial Engineers and designed features for the housing platform.
+  .btn:hover {
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
 
-<span style="font-size: 1.3em; font-weight: bold;">
-  <a href="https://www.logicmonitor.com/" target = "_blank">LogicMonitor ☁️ 🤖</a>
-</span> <br>
-Santa Barbara, CA
+  .btn-primary {
+    background: linear-gradient(135deg, #3b82f6, #2563eb);
+    color: white;
+  }
 
-**Data Science Intern, R&D** <br>
-**June 2021 - August 2021**
-- Researched and developed an early-stage feature on LogicMonitor's platform for root cause analysis of alerts. 
-- Wrote a Confluence tutorial in order to explain to future developers the usage of the application, how I developed it, and areas of improvement so developers can continue working on the product.
+  .pill-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 6px;
+  }
 
+  .pill {
+    display: inline-block;
+    padding: 7px 11px;
+    border-radius: 999px;
+    background: rgba(125, 211, 252, 0.14);
+    color: #bae6fd;
+    font-size: 0.85rem;
+  }
 
+  .section {
+    margin-top: 44px;
+  }
 
-## University Organizations 🎓
+  .section-title {
+    font-size: 0.9rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #94a3b8;
+    margin-bottom: 16px;
+  }
 
-### <a href="https://www.ucsdtcg.org/" target = "_blank">Triton Consulting Group (TCG) 🕴️</a>
-**VP Human Capital Management (HCM)** <br>
-**June 2022 - March 2023**
-- Planned social events, recruitment events, club retreats, study group sessions, and more to build a sense of community within TCG. 
-- Implemented strategies to foster a culture of inclusivity and increase retention within the organization.
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
+  }
 
-**Project Manager** <br>
-**October 2020 - June 2022**
-- Led the first iteration of a data analytics project for predicting churn using Machine Learning and analyzing ROI for a healthcare firm, which became a recurring client for TCG.
-- Led a team of 5 Associates and worked directly with the CFO in order to successfully deliver a key project within scope, timeline, and budget.  
-- Conducted primary and secondary research and created a long-term marketing plan for UCSD’s Price Center.
+  .card {
+    background: rgba(15, 23, 42, 0.8);
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    border-radius: 16px;
+    padding: 18px;
+    box-shadow: 0 12px 30px rgba(2, 6, 23, 0.16);
+    transition: transform 0.2s ease, border-color 0.2s ease;
+  }
 
-### <a href="https://ds3.ucsd.edu/" target = "_blank">Data Science Student Society (DS3) 📊</a>
-[***Data Science Workshops***](workshops)
-<!-- <a href="https://ds3.ucsd.edu/" target = "_blank">Data Science Student Society (DS3) 📊</a> -->
+  .card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(96, 165, 250, 0.6);
+  }
 
-**Professional Development Workshops Lead** <br>
-**June 2021 - September 2022**
-- Led the development of **2 workshops** dedicated to career development for undergraduate members of the Data Science Student Society.
-- Delivered workshops to prepare students for internship recruitment, such as resume reviews, networking sessions, or Leetcode workshops.
+  .badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    padding: 5px 10px;
+    border-radius: 999px;
+    background: rgba(59, 130, 246, 0.16);
+    color: #93c5fd;
+    margin-bottom: 10px;
+  }
 
-**Kaggle Workshop Committee Member** <br>
-**June 2020 - June 2021**
-- Delivered **6 workshops** on industry-relevant data science topics such as Pandas, Scikit-learn (sklearn) modeling, pipelines, and anomaly detection.
-- Created content with the other Workshop Committee members in order to engage students interested in data science and enhance their learning.
+  .card h3 {
+    margin: 0 0 8px;
+    font-size: 1.05rem;
+  }
 
-### <a href="https://acmucsd.com/communities#Cyber" target = "_blank">ACM Cyber 🥷🏼 💻</a>
-**Director of Finance & Logistics** <br>
-**July 2020 - June 2021**
-- Coordinated club events, which include workshops, networking events, seminars, and socials.
-- Interfaced with other ACM Cyber Board members to seamlessly hold virtual events, due to the COVID-19 pandemic.
-- Cultivated relationships with industry contacts for sponsors and mentors for organization members.
-- Managed sponsorships and fundraising to ensure organization operations run smoothly. 
-- Secured funding to cover the expenditures from competition registration, event organization, and travel.
+  .card p {
+    margin: 0;
+    color: #cbd5e1;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
 
-## Projects 🧑🏽‍🍳
+  .links {
+    margin-top: 12px;
+    font-size: 0.9rem;
+  }
 
-- **Deep Learning for Pulmonary Edema Classification using Image Segmentation** 🫁 🫀 
-    - Trained multiple convolutional neural network (CNN) architectures in order to diagnose pulmonary edema from chest X-rays.
-    - Utilized transfer learning with a lung and heart image segmentation network in order to understand the impact of segmentation.
-    - Worked closely with a radiologist from UC San Diego Health for two quarters during this Data Science Senior Capstone project.
-    - <a href="assets/DeepLearningEdemaPoster.png" target = "_blank">***Poster***</a>, <a href="https://yashpotdar.github.io/deep-learning-pulmonary-edema/" target = "_blank">***Website***</a>, <a href="assets/Deep_Learning_Edema.pdf" target = "_blank">***Paper***</a>
-- **Facebook Redesign** 🧓🏽 #️⃣ 
-    - Conducted a UX case study for a Facebook redesign aimed to increase accessibility for the 65+ community and reduce sentiments of isolation and depression among this demographic.
-    - Interviewed members of the 65+ community in order to understand their core needs, pain points, and values.
-    - Designed high-fidelity and wireframe prototypes of the app redesign.
-    - <a href="https://yashpotdar.github.io/facebook-redesign/" target = "_blank">***Website***</a>
-- **Generating Sherlock Holmes Passages with Recurrent Neural Networks** 🕵️‍♂️ 🗒️ 
-    - Explored the potential of recurrent neural networks (RNNs) to generate literature using a sample corpus.
-    - Tested and evaluated several RNN architectures with tuned hyperparameters.
-    - <a href="assets/Generating_Passages_RNN.pdf" target = "_blank">***Paper***</a>, <a href="https://github.com/YashPotdar/Generating-Sherlock-Passages-RNN/blob/main/Char_Rnn.ipynb" target = "_blank">***Notebook***</a>
-- **NYPD Police Complaint Classification Model** 🚔
-    - Developed a DecisionTreeClassifier to predict whether civilian cases against officers in the New York Police Department were substantiated.
-    - Evaluated the parity of the classifier using the True Positive Parity measure to assess whether the model had systematic biases.
-    - Utilized scikit-learn transformers and pipelines to engineer features and develop the algorithm.
-    - Notebooks: <a href="https://github.com/YashPotdar/NYPD_Civilian_Complaints/blob/main/nypd_permutation_test.ipynb" target = "_blank">***Permutation Test***</a>, <a href="https://github.com/YashPotdar/NYPD_Civilian_Complaints/blob/main/nypd_classification_model.ipynb" target = "_blank">***Classification ML Model***</a>
-- **MLB Pitch Classification** ⚾ 
-    - Utilized supervised ML algorithms (Decision Trees and K-Nearest Neighbors) to solve the multi-label classification problem of classifying pitches as Changeups, Curveballs, Fastballs, or Sliders.
-    - <a href="https://www.kaggle.com/yashpotdar/mlb-pitch-classification-by-knn-and-decision-trees" target = "_blank">***Website***</a>
+  .footer {
+    margin-top: 52px;
+    font-size: 0.9rem;
+    color: #94a3b8;
+  }
 
-<br>
-<center><img src='assets/teaching-dsc80-disc.png' width="100%"><br><i>Teaching discussion!</i> 🧑🏽‍🏫</center>
+  @media (max-width: 640px) {
+    .container { padding: 56px 18px 72px; }
+    .lead { font-size: 1rem; }
+  }
+</style>
+
+<div class="container">
+  <div class="top-links">
+    <a href="https://github.com/YashPotdar" target="_blank">GitHub</a>
+    <a href="https://www.linkedin.com/in/yashmpotdar" target="_blank">LinkedIn</a>
+  </div>
+
+  <section class="hero">
+    <div class="eyebrow">Software engineer • applied AI</div>
+    <h1 class="title">Yash Potdar</h1>
+    <p class="lead">
+      I build machine-learning systems, thoughtful product experiences, and data-driven tools that make complex ideas feel practical.
+    </p>
+
+    <div class="cta-row">
+      <a class="btn btn-primary" href="https://yashpotdar.dev">Full Portfolio →</a>
+    </div>
+
+    <div class="pill-row">
+      <span class="pill">ML systems</span>
+      <span class="pill">Applied AI</span>
+      <span class="pill">Product design</span>
+      <span class="pill">Research</span>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2 class="section-title">Selected work</h2>
+    <div class="grid">
+      <div class="card">
+        <div class="badge">ML / research</div>
+        <h3>Pulmonary Edema Detection</h3>
+        <p>A medical imaging project using CNNs and clinical features to support pulmonary edema classification.</p>
+        <div class="links">
+          <a href="https://yashpotdar.github.io/deep-learning-pulmonary-edema/">Open project →</a>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="badge">UI / product</div>
+        <h3>Facebook Redesign</h3>
+        <p>A modern UI exploration focused on clarity, hierarchy, and a more engaging feed experience.</p>
+        <div class="links">
+          <a href="https://yashpotdar.github.io/facebook-redesign/">Open project →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2 class="section-title">Currently</h2>
+    <div class="card">
+      <p>Working at the intersection of AI, health tech, and product design, with a focus on practical systems and meaningful user outcomes.</p>
+    </div>
+  </section>
+
+  <div class="footer">
+    Built with Jekyll and GitHub Pages • Portfolio at
+    <a href="https://yashpotdar.dev">yashpotdar.dev</a>
+  </div>
+</div>
