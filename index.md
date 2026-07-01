@@ -194,7 +194,7 @@ layout: null
     <div class="eyebrow">Software engineer • applied AI</div>
     <h1 class="title">Yash Potdar</h1>
     <p class="lead">
-      I build machine-learning systems, thoughtful product experiences, and data-driven tools that make complex ideas feel practical.
+      Customer-obsessed software engineer with full-stack expertise in Python/JavaScript, proven track record delivering production systems at scale for both enterprise and startup environments.
     </p>
 
     <div class="cta-row">
@@ -202,6 +202,7 @@ layout: null
     </div>
 
     <div class="pill-row">
+      <span class="pill">Software engineering</span>
       <span class="pill">ML systems</span>
       <span class="pill">Applied AI</span>
       <span class="pill">Product design</span>
